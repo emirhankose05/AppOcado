@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045707973851",
+    "project_id": "appocado-dfa2e",
+    "storage_bucket": "appocado-dfa2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045707973851:android:10d7e37f0af959938bd8fe",
+        "android_client_info": {
+          "package_name": "com.appocado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzkdMEh7z_opTidaYRUJfxyPtqFg1pqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -77,3 +77,11 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+for design: we using Figma
+for front and: we using react native
+for back end: we using Firebase
+
+The primary objective of AppOcado is to support users in developing healthy habits and leading a quality life. The application aims to increase users' awareness of health and quality of life, promote healthy lifestyle habits, and provide expert consultation services.
+
+Created by Google Developer Students Club Hitit University
